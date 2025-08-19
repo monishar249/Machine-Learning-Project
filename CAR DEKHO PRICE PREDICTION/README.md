@@ -32,8 +32,8 @@ Machine Learning models are applied to predict accurate car prices to help buyer
    - Deploy with **Flask** or **Streamlit** for real-time prediction
      
 ## 📈 Results
-- ✅ Best Model: `RandomForestRegressor`  
-- 📉 RMSE: `12345.67`  
-- 📊 R² Score: `0.89`  
-- 🔑 Top Features: `Year`, `Fuel_Type`, `Transmission`  
+-  Best Model: `RandomForestRegressor`  
+-  RMSE: `12345.67`  
+-  R² Score: `0.89`  
+-  Top Features: `Year`, `Fuel_Type`, `Transmission`  
  
